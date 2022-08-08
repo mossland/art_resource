@@ -9,5 +9,8 @@
 ## ~ 2022년 8월 5일
 
  - 모스랜드 메타 맵 디자인 분위기 작업 및 디자인 초안
-![Frame 1](https://user-images.githubusercontent.com/109493075/183326897-71f3bb28-e3e5-4701-a2d2-328abb33d60b.png)
-![배경](https://user-images.githubusercontent.com/109493075/183326906-53ebcc79-9cbd-4266-a290-a69e574f1504.png)
+![metaback_plan](https://user-images.githubusercontent.com/109493075/183328595-6a522d46-0f66-45e7-b89c-997340da3c92.png)
+![metaback1](https://user-images.githubusercontent.com/109493075/183328606-31d98aec-1ff0-4d52-a4a9-a792358c1006.png)
+![metaback](https://user-images.githubusercontent.com/109493075/183328616-3748e6a3-e116-4ce0-8624-f19c8563e65a.png)
+
+
