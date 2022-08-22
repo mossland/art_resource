@@ -170,5 +170,18 @@ UI 구성요소 배치 및 일정 계획 (~ 당월 19일)
 ![Screenshot_39](https://user-images.githubusercontent.com/109493423/185858210-60361951-d6b3-4f87-8fd4-ada470b8b2de.png)
 
 - 인벤토리 UI
+- 이모지 UI
 - 영상/음성 통화 영역
 - 상호작용, 캐릭터 관련 UI
+
+![Screenshot_40](https://user-images.githubusercontent.com/109493423/185860345-09291502-c205-4852-9747-5031acee7838.png)
+
+어두운 배경에 UI가 어울리는지 체크
+
+
+
+![Screenshot_41](https://user-images.githubusercontent.com/109493423/185860592-cb9bed10-21d2-4634-925d-acbd25a5e255.png)
+
+모바일기기 해상도 UI
+
+
