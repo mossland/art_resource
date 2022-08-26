@@ -229,3 +229,29 @@ UI 구성요소 배치 및 일정 계획 (~ 당월 19일)
 - 수영장 오리 튜브등 2종
 - 클럽 빈부분 오브젝트 채우기
 
+
+## 2022년 8월 26일  UI 진행상황
+
+
+## [웹뷰 컨테이너] 환전소 UI 모바일/데탑
+
+![Screenshot_15](https://user-images.githubusercontent.com/109493423/186875149-86d3ad2f-c934-420d-b07d-d5367321a021.png)
+
+
+
+
+## [웹뷰 컨테이너] 투표소 UI 모바일/데탑
+
+![Screenshot_16](https://user-images.githubusercontent.com/109493423/186875270-bb64d2f4-679d-46f1-ae68-9d34abc240ce.png)
+
+
+
+
+## [웹뷰 컨테이너] 거래소 UI 모바일/데탑
+
+![Screenshot_17](https://user-images.githubusercontent.com/109493423/186875368-f89460f7-166e-423a-abaa-fc4157f2194d.png)
+
+![Screenshot_18](https://user-images.githubusercontent.com/109493423/186875391-3088389a-bd67-446a-a5cf-fe8db7e755c4.png)
+
+
+
