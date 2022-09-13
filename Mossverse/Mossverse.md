@@ -312,3 +312,15 @@ UI 구성요소 배치 및 일정 계획 (~ 당월 19일)
 - 상판 및 전체 게임기 톤 수정 및 전체 마무리 수정
 - 사운드 위치 고민중
 
+
+
+## ~ 2022년 9월 8일
+
+![로그인화면](https://user-images.githubusercontent.com/109493423/189790587-ff9e10c8-1573-446a-88db-f9193eac3c5b.png)
+
+![Screenshot_11](https://user-images.githubusercontent.com/109493423/189790592-5ac57a9e-b473-4390-ae32-f43272e88cc0.png)
+
+<로그인화면 리소스,UI 완료>
+- 배경
+- 로고
+- 로그인 UI
