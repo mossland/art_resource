@@ -368,7 +368,9 @@ UI 구성요소 배치 및 일정 계획 (~ 당월 19일)
 - 간판 넣어봄
 
 ## ~ 2022년 10월 26일
-![thugparty](https://user-images.githubusercontent.com/109493075/197973565-394d4032-0078-4215-8efc-fd60f5f9ad80.png)
+
+![thugparty](https://user-images.githubusercontent.com/109493075/197974480-9d52c687-7547-45d6-b535-466713d1ce9d.png)
+
 <사이버더그 메타버스 작업>
 - 건물 1층에서 옥상으로 바로 올라가기
 - 충돌박스 부분을 고려한 디자인
