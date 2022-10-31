@@ -413,5 +413,4 @@ UI 구성요소 배치 및 일정 계획 (~ 당월 19일)
 ![Screenshot_40](https://user-images.githubusercontent.com/109493423/198917250-b39d42ab-2fe1-456c-a393-86b7d7fcb021.png)
 
 <Lucky11Ball>
- 
 - 벡터 그래픽 컨셉으로 진행 중
