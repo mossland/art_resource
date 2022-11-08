@@ -414,3 +414,19 @@ UI 구성요소 배치 및 일정 계획 (~ 당월 19일)
 
 <Lucky11Ball>
 - 벡터 그래픽 컨셉으로 진행 중
+
+ 
+ ## ~ 2022년 11월 8일
+ 
+ 
+![Lucky11Ball](https://user-images.githubusercontent.com/109493423/200520269-9faf0662-b9de-447e-8198-cb7b532f2950.png)
+
+ <Lucky11Ball>
+- 완료!
+  
+  
+![Screenshot_34](https://user-images.githubusercontent.com/109493423/200520438-5958c5c1-7286-40a9-9f2b-dad5ad9e2c93.png)
+  
+<CCR>
+- 룰렛 형식의 기획에서 피자 재료 맞추기로 컨셉 수정
+- 손그림의 느낌으로 진행 중
