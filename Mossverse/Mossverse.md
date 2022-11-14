@@ -428,3 +428,12 @@ Lucky11Ball 완료!
  <피자 피자 레볼루션 PPR>
   - 룰렛 형식의 기획에서 피자 재료 맞추기로 컨셉 수정
   - 손그림의 느낌으로 진행 중
+
+  
+## ~ 2022년 11월 14일
+
+![Screenshot_43](https://user-images.githubusercontent.com/109493423/201603583-27193c7e-9a91-4cca-812b-531184d313d1.png)
+
+<피자 피자 레볼루션 PPR>
+ 
+-완료!
