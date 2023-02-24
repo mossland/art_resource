@@ -447,3 +447,11 @@ Lucky11Ball 완료!
   ![Screenshot_13](https://user-images.githubusercontent.com/109493423/218663237-612aa65f-6ccf-486e-8a15-0bb09bb0f177.png)
 
   
+ ## ~ 2023년 2월 24일
+  <모스랜드 모스비치 맵에 리소스 추가>
+   - 메타버스 옥상에 게이밍룸 대신, 모스비치 맵에 게임기 군집으로 설치 (게임별 진입을 위한 통합 팝업 UI필요)
+   - 포인트 충전소 기기 (광고판 근처로 이동 및 디자인 변경 예정)
+   - 사이버더그 맵으로 이동 가이드 리소스 추가
+   
+   ![Screenshot_33](https://user-images.githubusercontent.com/109493423/221090381-f0c6a6ca-55c0-4944-94d7-a1411a0a5ca7.png)
+
