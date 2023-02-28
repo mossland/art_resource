@@ -455,3 +455,12 @@ Lucky11Ball 완료!
    
    ![Screenshot_33](https://user-images.githubusercontent.com/109493423/221090381-f0c6a6ca-55c0-4944-94d7-a1411a0a5ca7.png)
 
+   
+ ## ~ 2023년 2월 28일
+   <인게임에 브로드 캐스팅 바 UI 추가>
+    - 메타버스에서 일어나는 일 중 주요 알림사항을 띄운다.
+    
+![Screenshot_31](https://user-images.githubusercontent.com/109493423/221793160-b7773a11-f8e2-4a22-84c8-d26321bfa137.png)
+
+![Screenshot_32](https://user-images.githubusercontent.com/109493423/221793198-50b10c25-5555-48ca-ac2b-cff89cf7a53c.png)
+
