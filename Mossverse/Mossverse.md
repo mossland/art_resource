@@ -464,3 +464,11 @@ Lucky11Ball 완료!
 
 ![Screenshot_32](https://user-images.githubusercontent.com/109493423/221793198-50b10c25-5555-48ca-ac2b-cff89cf7a53c.png)
 
+    
+ ## ~ 2023년 6월 7일
+<사이버더그 메타버스 옥상에 게이밍 룸 추가>
+
+해커톤 미니 게임들을 플레이 할 수 있는 공간으로 구조 변경
+4월중 디자인 완료, 업데이트 대기.
+ 
+ ![Screenshot_33](https://github.com/mossland/art_resource/assets/109493423/87c36cad-fea1-4f7a-b967-4772d18c7a39)
