@@ -472,3 +472,18 @@ Lucky11Ball 완료!
 4월중 디자인 완료, 업데이트 대기.
  
  ![Screenshot_33](https://github.com/mossland/art_resource/assets/109493423/87c36cad-fea1-4f7a-b967-4772d18c7a39)
+
+ ## ~ 2023년 6월 22일
+ <사이버더그 메타버스 맵 리뉴얼>
+ - 전체적으로 밝게 톤업<br>
+![Screenshot_9953](https://github.com/mossland/art_resource/assets/109493423/be7579ab-983e-48a3-90dc-741f4fcd7d77)
+
+
+ - 클럽 내부 컬러 화려하게 변경<br>
+![Screenshot_55](https://github.com/mossland/art_resource/assets/109493423/c54cd1b6-ad37-409f-8766-ccfa0ae156a2)
+
+   
+ - 하우스 내부 인테리어 변경 중<br>
+![Screenshot_54](https://github.com/mossland/art_resource/assets/109493423/76c8e57a-0ce3-4509-a18d-bb5d63761907)
+
+이어서 싸떡 맵 리뉴얼 대기중...
