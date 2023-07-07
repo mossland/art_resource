@@ -486,4 +486,12 @@ Lucky11Ball 완료!
  - 하우스 내부 인테리어 변경 중<br>
 ![Screenshot_54](https://github.com/mossland/art_resource/assets/109493423/76c8e57a-0ce3-4509-a18d-bb5d63761907)
 
-이어서 싸떡 맵 리뉴얼 대기중...
+
+ ## ~ 2023년 7월 7일
+ <맵 2종 리뉴얼 리소스 완료>
+
+ - 클럽비치 맵 <br>
+ ![M_MapTool01](https://github.com/mossland/art_resource/assets/109493423/a36e867f-aaa1-48ca-9aef-d6fad6731e1c)
+
+ - 싸떡 맵 <br>
+![C_MapTool01](https://github.com/mossland/art_resource/assets/109493423/163880d7-0a2e-48cc-b868-713d67463744)
