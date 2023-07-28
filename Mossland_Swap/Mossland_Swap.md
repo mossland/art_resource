@@ -10,3 +10,14 @@
 - 모스랜드 스왑 로고
 
 ![Screenshot_10](https://github.com/mossland/art_resource/assets/109493423/51e762ab-cc74-4072-b161-787b2657793b)
+
+
+
+## ~ 2023년 7월 28일
+
+- 메인페이지 베너, 레이아웃 디자인
+
+![Screenshot_15](https://github.com/mossland/art_resource/assets/109493423/51499b3c-253f-49a7-9266-5f0ba95a34d8)
+
+
+![Mobile_About](https://github.com/mossland/art_resource/assets/109493423/86965c88-16ee-454c-b56d-d44abd84e1d1)
