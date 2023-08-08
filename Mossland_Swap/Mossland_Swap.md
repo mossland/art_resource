@@ -21,3 +21,10 @@
 
 
 ![Mobile_About](https://github.com/mossland/art_resource/assets/109493423/86965c88-16ee-454c-b56d-d44abd84e1d1)
+
+
+## ~ 2023년 8월 8일
+
+- Swap페이지 레이아웃, 컬러 스킴 구체화
+
+![Mobile_Swap](https://github.com/mossland/art_resource/assets/109493423/ee3d056e-7c10-471d-9d2b-5f80b9f6740b)
