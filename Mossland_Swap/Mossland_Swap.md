@@ -35,3 +35,9 @@
 - Swap페이지 케이스 3종
 
   ![Screenshot_15](https://github.com/mossland/art_resource/assets/109493423/76a97bb7-45d1-48b8-9642-03c7dea349c9)
+
+## ~ 2023년 8월 29일
+
+- 최종 검수 완료
+
+![Screenshot_1](https://github.com/mossland/art_resource/assets/109493423/5ab1fc82-c809-4ade-9872-73cb389b0079)
