@@ -38,6 +38,6 @@
 
 ## ~ 2023년 8월 29일
 
-- 최종 검수 완료
+- footer 제작 & 최종 검수 완료
 
 ![Screenshot_1](https://github.com/mossland/art_resource/assets/109493423/5ab1fc82-c809-4ade-9872-73cb389b0079)
