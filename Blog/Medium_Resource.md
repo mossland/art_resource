@@ -66,6 +66,61 @@
 
 
 
+## 2023년 8월 24일
+
+- WMOC, 글로벌 거래소 LATOKEN 상장
+
+![Screenshot_9](https://github.com/mossland/art_resource/assets/109493423/57dd23c4-89f0-408f-a0d0-a232cf33ef3f)
+
+- Mossland Web Full Stack Developer Recruitment Notice
+
+![Screenshot_10](https://github.com/mossland/art_resource/assets/109493423/d7c31466-2ff2-427e-bbec-ff04d1cb337d)
 
 
 
+## 2023년 9월 14일
+
+- 모스랜드의 오픈소스 활동은 계속 성장 중!
+
+![Screenshot_11](https://github.com/mossland/art_resource/assets/109493423/99fd112e-c3cd-4bde-aaa6-71aa19b3b4dc)
+
+
+
+## 2023년 9월 19일
+
+- 모스랜드 메타버스에서 뭐 하고 놀지?
+
+![Screenshot_12](https://github.com/mossland/art_resource/assets/109493423/827a128a-592b-49ba-8f16-05adfac4adb6)
+
+
+
+## 2023년 9월 22일
+
+- 모스랜드 메타버스 사용 설명서
+
+![Screenshot_13](https://github.com/mossland/art_resource/assets/109493423/16746664-364b-482d-b58f-1f3383d962f9)
+
+
+
+## 2023년 9월 26일
+
+- 컴플라이언스 프로그램 [AML, CTF, KYC]
+
+![Screenshot_14](https://github.com/mossland/art_resource/assets/109493423/6c1bc411-be5d-472d-905b-3c7c3f3b7dad)
+
+
+
+## 2023년 10월 18일
+
+- [PC] LATOKEN 이용 가이드
+
+![Screenshot_15](https://github.com/mossland/art_resource/assets/109493423/279acc58-ac5d-4119-9b13-95ca9e7d0142)
+![Screenshot_16](https://github.com/mossland/art_resource/assets/109493423/bce21b95-7288-456e-83a9-3ea0eec8b743)
+
+
+
+## 2023년 11월 27일
+
+- MOC, NO.1 가상자산 플랫폼, ‘빗썸(bithumb)’ 상장
+
+![Screenshot_17](https://github.com/mossland/art_resource/assets/109493423/8334c66b-07bf-4306-9a67-ec07f3505d8b)
