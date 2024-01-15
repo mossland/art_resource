@@ -124,3 +124,11 @@
 - MOC, NO.1 가상자산 플랫폼, ‘빗썸(bithumb)’ 상장
 
 ![Screenshot_17](https://github.com/mossland/art_resource/assets/109493423/8334c66b-07bf-4306-9a67-ec07f3505d8b)
+
+
+
+## 2023년 11월 29일
+
+- 모스랜드 개발자 지원 프로그램
+
+![오픈소스023](https://github.com/mossland/art_resource/assets/109493423/b3106bfe-5c2e-41d7-8380-063334efaab6)
