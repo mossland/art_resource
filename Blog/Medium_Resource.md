@@ -132,3 +132,12 @@
 - 모스랜드 개발자 지원 프로그램
 
 ![오픈소스023](https://github.com/mossland/art_resource/assets/109493423/b3106bfe-5c2e-41d7-8380-063334efaab6)
+
+
+## 2024년 3월 14일
+
+- 모스랜드 2023년 주요 성과와 2024년 1분기 진행 사항 요약
+
+![Screenshot_11](https://github.com/mossland/art_resource/assets/109493423/6e208af1-e9e2-4e24-868b-eca5fbae1379)
+
+![MOC_2023-2024](https://github.com/mossland/art_resource/assets/109493423/5e6e2f75-e2f9-4766-8e54-d624dc0f40a4)
