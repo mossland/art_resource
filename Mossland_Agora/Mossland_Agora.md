@@ -1,6 +1,6 @@
-![Agora_Logo](https://github.com/user-attachments/assets/a68314b4-a76a-4ac0-878d-64435385c10c)
+# 프로젝트 아고라
 
-# 아고라 프로젝트
+![Agora_Logo](https://github.com/user-attachments/assets/a68314b4-a76a-4ac0-878d-64435385c10c)
 
 ## Home to Pages Flow
 
