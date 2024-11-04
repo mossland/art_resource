@@ -1,4 +1,4 @@
-# 프로젝트 아고라
+![image](https://github.com/user-attachments/assets/b908aef8-3332-4d4d-bf68-799bd0302bcf)# 프로젝트 아고라
 
 ![Agora_Logo](https://github.com/user-attachments/assets/a68314b4-a76a-4ac0-878d-64435385c10c)
 <a href=https://medium.com/mossland-blog/오픈소스-프로젝트-아고라-agora-67b3b2e3fa7f> <medium.com> 오픈소스 프로젝트 아고라(Agora) - 블로그 </a>
@@ -18,3 +18,14 @@ Mossverse 내에서 Agora Field 진입 플로우
 
 지갑 연동 플로우
 ![Screenshot_3](https://github.com/user-attachments/assets/b830546b-65b9-4b04-a31c-c447993e2ce3)
+
+
+
+## Proposal Flow
+
+New Proposal
+![Screenshot_2](https://github.com/user-attachments/assets/7dffc7b3-b053-47ad-a87d-36491de2f9b0)
+![image](https://github.com/user-attachments/assets/c10e1cb5-e041-439d-a19e-38249dedf1cd)
+
+Vote Proposal 
+![image](https://github.com/user-attachments/assets/b3dae6ec-5204-4966-bbb6-a2d865d474bb)
