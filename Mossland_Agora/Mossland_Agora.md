@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b908aef8-3332-4d4d-bf68-799bd0302bcf)# 프로젝트 아고라
+# 프로젝트 아고라
 
 ![Agora_Logo](https://github.com/user-attachments/assets/a68314b4-a76a-4ac0-878d-64435385c10c)
 <a href=https://medium.com/mossland-blog/오픈소스-프로젝트-아고라-agora-67b3b2e3fa7f> <medium.com> 오픈소스 프로젝트 아고라(Agora) - 블로그 </a>
@@ -29,3 +29,14 @@ New Proposal
 
 Vote Proposal 
 ![image](https://github.com/user-attachments/assets/b3dae6ec-5204-4966-bbb6-a2d865d474bb)
+
+
+
+## Forum Flow
+
+Click list item
+![Group 89](https://github.com/user-attachments/assets/f8ade97e-9411-4ee2-8b1f-047a1886147b)
+
+
+New Topic
+![Group 88](https://github.com/user-attachments/assets/f915444d-3547-40af-8344-a87109aaa904)
