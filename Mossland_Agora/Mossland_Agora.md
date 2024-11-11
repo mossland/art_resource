@@ -4,19 +4,6 @@
 <a href=https://medium.com/mossland-blog/오픈소스-프로젝트-아고라-agora-67b3b2e3fa7f> <medium.com> 오픈소스 프로젝트 아고라(Agora) - 블로그 </a>
 
 
-차례
-
-[1. Home to Pages Flow](##1.-Home-to-Pages-Flow)
-
-[2. SignIn Flow](##SignIn-Flow)
-
-[3. Proposal Flow](Proposal-Flow)
-
-[4. Forum Flow](Forum-Flow)
-
-[5. Profile](Profile)
-
-
 
 ## 1. Home to Pages Flow
 
